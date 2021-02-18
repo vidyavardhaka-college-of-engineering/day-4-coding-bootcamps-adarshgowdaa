@@ -25,4 +25,4 @@ int main()
   //Print the sum of array elements which is stored in variable sum using printf statement
   printf("Sum of all elements stored in the array is : %d\n", sum);
   return 0;
-}
+ }
