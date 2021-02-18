@@ -10,8 +10,16 @@
 int main()
 {
   //Declare all the variables[row, col, array a(2D array), i] used in the code
+  int row,col,a[5][5],i;
    //Read the Value of row and coloumn of the matrix (i.e size of matrix) using scanf statement
+   printf("Enter the number of Rows\n");
+   scanf("%d" , &row);
+   printf("Enter the number of Coloumns\n");
+   scanf("%d" , &col);
    //Read the elements of matrix a using nested for loop and scanf statment
+   for
+  
    //Print the elements of matrix a using nested for loop and printf statment as per the above specified format
   return 0;
 }
+
